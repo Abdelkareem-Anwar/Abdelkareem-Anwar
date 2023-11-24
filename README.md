@@ -44,9 +44,9 @@
 <div align="center">
 <!--   <img src="https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=8&color=6"  /> -->
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdElKareem-Anwar&label=Profile%20Views&color=800080&style=flat&logo" alt="AbdElKareem-Anwar" /> </p>
+ <img src="https://github.com/Abdelkareem-Anwar/Abdelkareem-Anwar/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </div>
   
-![snake gif](https://github.com/AbdElKareem-Anwar/AbdElKareem-Anwar/blob/output/github-contribution-grid-snake.gif)
 
 
 
