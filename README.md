@@ -40,10 +40,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=AbdElKareem-Anwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-  
-[![](https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=0&color=12)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Abdelkareem-Anwar/Abdelkareem-Anwar/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+<!--   <img src="https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=8&color=6"  /> -->
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdElKareem-Anwar&label=Profile%20Views&color=800080&style=flat&logo" alt="AbdElKareem-Anwar" /> </p>
+</div>
+  
+![snake gif](https://github.com/AbdElKareem-Anwar/AbdElKareem-Anwar/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
