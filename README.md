@@ -42,11 +42,14 @@
 ---
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
+###
+
+![snake gif](https://github.com/Abdelkareem-Anwar/Abdelkareem-Anwar/blob/output/github-contribution-grid-snake.gif)
+
+###
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
