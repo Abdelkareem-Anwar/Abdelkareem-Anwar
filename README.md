@@ -40,16 +40,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=AbdElKareem-Anwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=AbdElKareem-Anwar&icon=0&color=12)](https://visitcount.itsvg.in)
 
-</div>
-
-###
-
 ![snake gif](https://github.com/Abdelkareem-Anwar/Abdelkareem-Anwar/blob/output/github-contribution-grid-snake.gif)
 
-###
 
 
