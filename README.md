@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Computer Science Fresh Graduate Enthusiast about Back-End</h3>
+<h3 align="center">Back-End Engineer | Building Scalable Financial Systems | CS Graduate</h3>
 
 ## 🌐 Connect with me:
 <div align="left">
